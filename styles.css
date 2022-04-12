@@ -34,4 +34,17 @@ li a:hover {
   background-color: black;
   cursor: pointer;
 }
+
+.icons {
+  display: none;
+}
+
+@media (max-width: 40rem) {
+  .nav-items {
+    display: none;
+  }
+  .icons {
+    display: block;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
