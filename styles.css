@@ -39,9 +39,20 @@ li a:hover {
   display: none;
 }
 
-@media (max-width: 40rem) {
+@media (max-width: 37rem) {
+  .title {
+    width: 100%;
+    text-align: center;
+  }
   .nav-items {
     display: none;
+  }
+  .ham-icon {
+    width: 100%;
+  }
+  .ham-icon a {
+    width: 10%;
+    margin: auto;
   }
   .icons {
     display: block;
