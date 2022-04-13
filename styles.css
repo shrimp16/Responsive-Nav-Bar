@@ -65,5 +65,9 @@ li a:hover:not(.ham-menu) {
   li {
     float: none;
   }
+  .nav-items {
+    width: 40%;
+    margin: auto;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
