@@ -9,3 +9,11 @@ $('#ham-icon').click(() => {
         navItems = false;
     }
 })
+
+$(window).resize(() => {
+
+    if(window.innerWidth >= 592){
+        $('.nav-items').css('display', 'block');
+    }
+    
+})

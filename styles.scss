@@ -28,12 +28,16 @@ li {
         text-decoration: none;
         transition: 0.5s;
 
-        &:hover {
+        &:hover:not(.ham-menu) {
             background-color: black;
             cursor: pointer;
         }
     }
 
+}
+
+.ham-menu:hover {
+    cursor: pointer;
 }
 
 .icons {
@@ -53,14 +57,20 @@ li {
 
     .ham-icon {
         width: 100%;
+        height: 1%;
 
         a {
             width: 10%;
             margin: auto;
         }
+        
     }
 
     .icons {
         display: block;
+    }
+
+    li{
+        float: none;
     }
 }
