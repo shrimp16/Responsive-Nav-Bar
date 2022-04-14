@@ -15,6 +15,15 @@ Simple project to try to create a responsive nav bar
 
 ![](./screenshots/Screenshot_1.png)
 ![](./screenshots/Screenshot_2.png)
-![](./screenshots/Screenshot_3.png)
-![](./screenshots/Screenshot_4.png)
-![](./screenshots/Screenshot_5.png)
+
+<p align="center">
+  <img src="./screenshots/Screenshot_3.png">
+</p>
+
+<p align="center">
+  <img src="./screenshots/Screenshot_4.png">
+</p>
+
+<p align="center">
+  <img src="./screenshots/Screenshot_5.png">
+</p>
